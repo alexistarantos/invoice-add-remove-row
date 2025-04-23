@@ -8,18 +8,12 @@
 ![Screenshot](step2.png)  
 *Next instructions...*  
 
-<h1><a href="https://app.tango.us/app/workflow/b7543929-e3cf-4d88-a68c-a182b817f10a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>Generate Invoice in Gocars</a></h1>
-<div><b>Creation Date:</b> Apr 23, 2025</div>
-<div><b>Created By:</b> Αλέξης Τάραντος</div>
-<div><a href="https://app.tango.us/app/workflow/b7543929-e3cf-4d88-a68c-a182b817f10a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>View most recent version on Tango.ai</a></div>
-<div style="height: 24px">&#8203;</div>
-<hr />
-<div style="height: 24px">&#8203;</div>
 
-
-<div><h2><a href="https://v3.gocars.gr/online-admin/index.php?controller=pjAdminInvoices&action=pjActionUpdate&id=286"># V3 Gocars | Online Booking Engine</a></h2></div>
+<div><h2>V3 Gocars | Online Booking Engine</h2></div>
 
 <div><h3>1. Click on Invoice…</h3>
+    ![image](https://github.com/user-attachments/assets/1d5da1d1-ae8c-4be4-8562-5a31f1081d3b)
+
 <img src="https://images.tango.us/workflows/b7543929-e3cf-4d88-a68c-a182b817f10a/steps/84262faf-d647-4392-95ac-dfb607a4fcc3/ff56fe06-ec1f-49b9-b2ae-2abc52c17694.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5681&fp-y=0.7157&fp-z=1.2039&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=24&mark-y=330&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xMTUyJmg9Mjc0JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Click on Invoice…" />
 </div>
 
